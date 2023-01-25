@@ -32,3 +32,4 @@ git add .
 ```
 git config --global alias.hist "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 ```
+![Пример вывода git hist](images/snimok-ekrana-2020-08-03-v-17.49.16.png)
